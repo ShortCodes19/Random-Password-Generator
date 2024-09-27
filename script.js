@@ -2,7 +2,7 @@ const passwordBox = document.getElementById("password");
 const generate = document.getElementById("generate");
 const copyIcon = document.querySelector(".display i");
 const copyText = document.querySelector(".copy-text");
-const length = 12;
+const length = 16;
 
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerCase = "abcdefghijklmnopqrstuvwxyz";
